@@ -2,7 +2,7 @@
   "name": "@subiz/jssip",
   "title": "JsSIP",
   "description": "the Javascript SIP library",
-  "version": "3.9.2",
+  "version": "3.9.4",
   "homepage": "https://jssip.net",
   "contributors": [
     "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
@@ -21,10 +21,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/subiz/JsSIP.git"
   },
   "bugs": {
-    "url": "https://github.com/versatica/JsSIP/issues"
+    "url": "https://github.com/subiz/JsSIP/issues"
   },
   "dependencies": {
     "@types/debug": "^4.1.5",
